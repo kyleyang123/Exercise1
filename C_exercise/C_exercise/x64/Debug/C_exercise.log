@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Kyle\Desktop\exercise1\C_exercise\C_exercise\main.c(96,34): warning C4113: 'void (__cdecl *)()' 與來自 'void (__cdecl *)(int,int)' 的參數清單不同
+  C_exercise.vcxproj -> C:\Users\Kyle\Desktop\exercise1\C_exercise\x64\Debug\C_exercise.exe
