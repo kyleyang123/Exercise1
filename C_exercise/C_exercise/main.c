@@ -144,7 +144,6 @@ int uart_close()
 
 void register_status_callback(void (*callback)(int connected, int actived)) {
     // This function should register the callback function to get the latest status
-    // However, in this example, we will just print a message indicating that the callback is registered.
     printf("Status callback registered successfully.\n");
     printf("\n");
     printf("\n");
