@@ -95,7 +95,7 @@ int main(int argc, char* argv[]) {
         send_status_update();
         register_status_callback(send_status_update);
         receive_configuration();
-        Sleep(3000); // Update status every second
+        Sleep(1000); // Update status every second
     }
 
     // Close UART communication
